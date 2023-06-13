@@ -52,6 +52,9 @@
 			isa = PBXGroup;
 			children = (
 				B76562DE2A3854CF00E48DC7 /* SolfaApp.swift */,
+				B76562F02A38802700E48DC7 /* ViewModel */,
+				B76562EF2A38801E00E48DC7 /* Model */,
+				B76562EE2A38801100E48DC7 /* View */,
 				B76562E02A3854CF00E48DC7 /* ContentView.swift */,
 				B76562E22A3854D100E48DC7 /* Assets.xcassets */,
 				B76562E42A3854D100E48DC7 /* Preview Content */,
@@ -65,6 +68,27 @@
 				B76562E52A3854D100E48DC7 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		B76562EE2A38801100E48DC7 /* View */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		B76562EF2A38801E00E48DC7 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		B76562F02A38802700E48DC7 /* ViewModel */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = ViewModel;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
